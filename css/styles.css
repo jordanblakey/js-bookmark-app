@@ -2,6 +2,7 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+  color: blue
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -75,5 +76,8 @@ body {
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
+  }
+}
+;
   }
 }
